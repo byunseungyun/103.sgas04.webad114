@@ -11,10 +11,10 @@
   font-family: manbalchungchun;
   src: url(../fonts/Manbalchungchun.ttf); }
 .svgLogoText {
-  fill: #ff5f2e; }
+  fill: #D1B6E1; }
 
 .page-header {
-  background: url("../images/headerimage2.jpg") no-repeat !important;
+  background: url("../images/headerimage9.jpg") no-repeat !important;
   margin-top: 80px !important;
   padding: 0 !important; }
 
@@ -27,7 +27,7 @@
 .banner {
   text-align: center !important;
   color: #fff !important;
-  background: url("../images/headerimage2.jpg") no-repeat !important;
+  background: url("../images/headerimage9.jpg") no-repeat !important;
   background-attachment: scroll !important;
   background-position: center center !important;
   -webkit-background-size: cover !important;
@@ -36,7 +36,7 @@
   background-size: cover !important; }
 
 .call-to-action {
-  background: url("../images/headerimage2.jpg") !important;
+  background: url("../images/headerimage9.jpg") !important;
   background-attachment: fixed !important;
   background-size: cover !important;
   background-position: 50% 90% !important;
@@ -54,16 +54,16 @@ a.navbar-brand {
   font-family: "manbalchungchun";
   font-size: 40px;
   padding-top: 20px;
-  color: #ff5f2e !important; }
+  color: #D1B6E1 !important; }
 
 .navbar-default .navbar-nav > li > a.active, .navbar-default .navbar-nav > li:hover > a {
-  border-top: 2px solid #ff5f2e !important;
+  border-top: 2px solid #D1B6E1 !important;
   color: #fff;
-  background: #ff5f2e !important; }
+  background: #D1B6E1 !important; }
 
 .btn-primary {
-  background: #ff5f2e !important;
-  border-color: #ff5f2e !important;
+  background: #D1B6E1 !important;
+  border-color: #D1B6E1 !important;
   font-size: 16px;
   padding: 8px 15px;
   -webkit-transition: all 0.3s;
@@ -73,20 +73,20 @@ a.navbar-brand {
 
 .btn-primary:hover {
   background: transparent !important;
-  border-color: #ff5f2e !important;
-  color: #ff5f2e !important; }
+  border-color: #D1B6E1 !important;
+  color: #D1B6E1 !important; }
 
 .copyright-menu li a:hover {
-  color: #ff5f2e !important; }
+  color: #D1B6E1 !important; }
 
 .footer-address ul li a:hover {
-  color: #ff5f2e !important; }
+  color: #D1B6E1 !important; }
 
 .services-post:hover a,
 .services-post a.active {
-  background: #ff5f2e !important;
+  background: #D1B6E1 !important;
   color: #ffffff;
   border: 2px solid transparent; }
 
 .banner .intro-text h1 span {
-  color: #ff5f2e !important; }
+  color: #D1B6E1 !important; }
